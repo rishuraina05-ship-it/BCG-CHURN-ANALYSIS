@@ -1,5 +1,11 @@
 # BCG Churn Analysis & Business Strategy 📊
 
+## Project Type
+BCG Virtual Experience Program (Forage)
+
+## Duration
+March 2025 – July 2025
+
 ## Overview
 This project is based on a real-world consulting simulation focused on analyzing customer churn and developing data-driven business strategies.
 
