@@ -1,4 +1,4 @@
-# BCG Churn Analysis & Business Strategy 📊
+# Churn Analysis & Business Strategy 📊
 
 ## Project Type
 BCG Virtual Experience Program (Forage)
